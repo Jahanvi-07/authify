@@ -63,8 +63,6 @@ The API is designed to be easily integrated into web applications, offering a st
 
    The API will be running on `http://localhost:3000`.
 
+
+## 📸 Screenshots
 ---
-
-
-
-
