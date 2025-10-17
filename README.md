@@ -67,11 +67,15 @@ The API is designed to be easily integrated into web applications, offering a st
 ## 📸 Screenshots
 
 <img width="1036" height="1026" alt="Image" src="https://github.com/user-attachments/assets/943bbd7d-7030-4d2d-8c01-3258f09b8bf7" />
+
 ---
 <img width="1032" height="1021" alt="Image" src="https://github.com/user-attachments/assets/e17d3b01-f1a5-4b4d-a3db-0b3b46bd2851" />
+
 ---
 <img width="1047" height="852" alt="Image" src="https://github.com/user-attachments/assets/83700d85-78d4-45c3-a039-f2e7e4e36b20" />
+
 ---
 <img width="1030" height="1025" alt="Image" src="https://github.com/user-attachments/assets/f35c0016-ba01-4d72-ab80-d91e70c39510" />
+
 ---
 <img width="1034" height="1023" alt="Image" src="https://github.com/user-attachments/assets/2b1653ff-0be7-47aa-a3e5-ea3e11f630e1" />
